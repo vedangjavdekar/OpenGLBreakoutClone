@@ -9,3 +9,8 @@ I have followed the tutorials from learnopengl.com as the basis for this game wi
 3.  Post Processing effects(currently it supports only inverting of the scene colors) by renderering to a framebuffer (this is included in the learnopengl.com tutorial)
 
 NOTE: This project is just a prototype and is not a finished product.
+
+# Gameplay:
+
+![Breakout1](https://github.com/vedangasDARKNINJA/OpenGLBreakoutClone/tree/master/media/breakout1.gif)
+![Breakout2](https://github.com/vedangasDARKNINJA/OpenGLBreakoutClone/tree/master/media/breakout2.gif)

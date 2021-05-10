@@ -20,7 +20,7 @@ uniform sampler2D image;
 void main()
 {
     //Inverted Color 
-    //color = vec4(vec3(1.0 - texture(image, TexCoords)), 1.0);
+    color = vec4(vec3(1.0 - texture(image, TexCoords)), 1.0);
     // Normal Color
-    color = vec4(vec3(texture(image, TexCoords)),1.0);
+    //color = vec4(vec3(texture(image, TexCoords)),1.0);
 }
